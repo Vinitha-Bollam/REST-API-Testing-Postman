@@ -1,5 +1,5 @@
-# Rest-Api-Testing-Postman
-Rest Api testing using Postman tool 
+# REST-API-Testing-Postman
+REST-API testing using Postman tool 
 Here is Swagger Documentation: https://restful-booker.herokuapp.com/apidoc/index.html
 
 Perform CRUD operations on Heroku booking app and perform all required assertions.
