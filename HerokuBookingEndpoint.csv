@@ -1,0 +1,6 @@
+firstname,lastname,totalprice,depositpaid,checkin,checkout,additionalneeds,updatefirstname,updatelastname,updatetotalprice,updatedepositpaid,updatecheckin,updatecheckout,partialupdatefirstname,partialupdatelastname
+james,cameron,100,TRUE,2023-01-22,2023-02-01,Chicken Biryani,Jason,Holder,150,TRUE,2023-03-01,2023-03-20,Jason R,Holder
+andy,moore,200,TRUE,2023-01-23,2023-02-02,Mutton Curry,Andrew,Russel,250,TRUE,2023-03-02,2023-03-21,Andrew S,Russel
+christopher,nolen,300,TRUE,2023-01-24,2023-02-03,Salad,El,Busk,350,TRUE,2023-03-03,2023-03-22,Elon,Musk
+nancy,peter,400,TRUE,2023-01-25,2023-02-04,BreakFast,Ganet,Zore,450,TRUE,2023-03-04,2023-03-23,Ganet P,Zoreh
+kristi,alan,500,TRUE,2023-01-26,2023-02-05,Cereal,Kamar,Koney,550,TRUE,2023-03-05,2023-03-24,Kamar J,Kon
